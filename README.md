@@ -22,4 +22,4 @@ More solutions will be added as I continue my Codeforces journey.
 
 ---
 
-⭐ **72 problems solved. Many more to go.** 🚀
+⭐ **problems solved. Many more to go.** 🚀
