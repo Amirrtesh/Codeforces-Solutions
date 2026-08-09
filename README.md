@@ -4,7 +4,6 @@ A collection of my **Codeforces problem solutions** solved using **Python** 🐍
 
 ## 📊 Progress
 
-* 🧩 Problems Solved: **72+**
 * 🐍 Language: **Python**
 * 🏆 Platform: **Codeforces**
 
